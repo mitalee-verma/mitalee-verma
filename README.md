@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/9bf774bb4c2bcec49c11340d1d2ddd4401b685bafa45e5404237c89fd36a4c12/68747470733a2f2f7777772e63617265657267756964652e636f6d2f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f67697068792d372e676966)
 <h1 align="center">Hi 👋, I'm Mitalee Verma</h1>
-<h3 align="center">An enthusiastic frontend developer from India, passionate about crafting seamless user interfaces and experiences. Skilled in designing innovative UI/UX, building dynamic web applications, and diving into full-stack development. With a keen interest in cloud computing, I bring together creativity and technology to deliver impactful solutions.</h3>
+<h3 align="center">Enthusiastic frontend developer from India, blending creativity and technology to craft seamless UI/UX and dynamic web applications.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/89764162/216025420-8abe7bc6-0085-46a9-b5e8-27779e5f7a00.gif">
 
